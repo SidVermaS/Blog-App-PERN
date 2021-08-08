@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Karan Joshi",
+        "email": "karan@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img1.jpg"
+    },
+    {
+        "name": "Akash Naik",
+        "email": "akash@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img2.jpg"
+    },
+    {
+        "name": "Anushka Reddy",
+        "email": "anushka@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img3.jpg"
+    },
+    {
+        "name": "Kartik Patel",
+        "email": "kartik@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img4.jpg"
+    },
+    {
+        "name": "Naman Shah",
+        "email": "naman@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img5.jpg"
+    },
+    {
+        "name": "Manali Iyer",
+        "email": "manali@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img6.jpg"
+    },
+    {
+        "name": "Hitesh Patil",
+        "email": "hitesh@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img7.jpg"
+    },
+    {
+        "name": "Girish Kamble",
+        "email": "girish@gmail.com",
+        "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
+        "photo_url": "img8.jpg"
+    }
+]
