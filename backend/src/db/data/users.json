@@ -1,48 +1,56 @@
 [
     {
         "name": "Karan Joshi",
+        "phone": 9123456781,
         "email": "karan@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img1.jpg"
     },
     {
         "name": "Akash Naik",
+        "phone": 9123456782,
         "email": "akash@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img2.jpg"
     },
     {
         "name": "Anushka Reddy",
+        "phone": 9123456783,
         "email": "anushka@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img3.jpg"
     },
     {
         "name": "Kartik Patel",
+        "phone": 9123456784,
         "email": "kartik@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img4.jpg"
     },
     {
         "name": "Naman Shah",
+        "phone": 9123456785,
         "email": "naman@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img5.jpg"
     },
     {
         "name": "Manali Iyer",
+        "phone": 9123456786,
         "email": "manali@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img6.jpg"
     },
     {
         "name": "Hitesh Patil",
+        "phone": 9123456787,
         "email": "hitesh@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img7.jpg"
     },
     {
         "name": "Girish Kamble",
+        "phone": 9123456788,
         "email": "girish@gmail.com",
         "password": "$2b$10$SHYf2tGkCDgzup0.3K4jv.HUfb30IrcQIeIH4mR.4G9woF0axXN.C",
         "photo_url": "img8.jpg"

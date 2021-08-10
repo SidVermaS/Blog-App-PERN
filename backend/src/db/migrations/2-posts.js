@@ -28,7 +28,7 @@ module.exports = {
       photo_url: {
         type: DataTypes.STRING,
       },
-      likes: {
+      likes_count: {
         type: DataTypes.INTEGER,
         allowNull: false,
         defaultValue: 0

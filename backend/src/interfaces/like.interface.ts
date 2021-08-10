@@ -1,7 +1,7 @@
-interface LikesI {
+interface LikeI {
     id: string
     post_id: string
     user_id: string
 }
 
-export default LikesI
+export default LikeI

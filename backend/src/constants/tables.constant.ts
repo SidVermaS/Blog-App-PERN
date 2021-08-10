@@ -1,10 +1,10 @@
-const users='users'
-const posts='posts'
+const usersC='users'
+const postsC='posts'
 const comments='comments'
 const likes='likes'
 export {
-    users,
-    posts,
+    usersC,
+    postsC,
     comments,
     likes
 }

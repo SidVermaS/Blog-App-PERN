@@ -28,6 +28,11 @@ module.exports = {
         allowNull: false,
         type: DataTypes.STRING
       },
+      phone: {
+        allowNull: false,
+        unique: true,
+        type: DataTypes.BIGINT,
+      },
       email: {
         allowNull: false,
         unique: true,

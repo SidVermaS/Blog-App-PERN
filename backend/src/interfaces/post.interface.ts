@@ -1,10 +1,10 @@
-interface PostsI {
+interface PostI {
     id: string
     title: string
     caption: string
     photo_url: string
-    likes: number
+    likes_count?: number
     user_id: string
 }
 
-export default PostsI
+export default PostI
