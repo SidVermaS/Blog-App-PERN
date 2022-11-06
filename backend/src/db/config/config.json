@@ -1,27 +1,27 @@
 {
-    "development": {
-        "username": "postgres",
-        "password": "invimatic@123",
-        "database": "blog_db",
-        "host": "127.0.0.1",
-        "port": 5432,
-        "dialect": "postgres"
-    },  
-    "test": {
-        "username": "postgres",
-        "password": "invimatic@123",
-        "database": "blog_db",
-        "host": "127.0.0.1",
-        "port": 5432,
-        "dialect": "postgres"
-      },
-    
-    "production": {
-        "username": "postgres",
-        "password": "invimatic@123",
-        "database": "blog_db",
-        "host": "127.0.0.1",
-        "port": 5432,
-        "dialect": "postgres"
-    }
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "blog_db",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "blog_db",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+
+  "production": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "blog_db",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
 }

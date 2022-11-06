@@ -1,10 +1,7 @@
-const usersC='users'
-const postsC='posts'
-const comments='comments'
-const likes='likes'
-export {
-    usersC,
-    postsC,
-    comments,
-    likes
+enum Tables {
+  users='users',
+  posts='posts',
+  comments='comments',
+  likes='likes',
 }
+export { Tables };
